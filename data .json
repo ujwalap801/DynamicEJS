@@ -1,0 +1,209 @@
+{
+  "cats": {
+    "name": "cats",
+    "followers": 25000,
+    "following": 5,
+    "posts": [
+      {
+        "image": "https://plus.unsplash.com/premium_photo-1677545182067-26ac518ef64f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2F0c3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "likes": 200,
+        "comments": 17
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2F0c3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "likes": 312,
+        "comments": 19
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1577023311546-cdc07a8454d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2F0c3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "likes": 1065,
+        "comments": 200
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1570824104453-508955ab713e?auto=format&fit=crop&q=80&w=1911&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "likes": 200,
+        "comments":10
+      },
+     {
+     "image":" https://media.istockphoto.com/id/1432902834/photo/a-small-cute-child-toddler-3-years-old-gently-embraces-a-red-fluffy-cat-sitting-on-a-pillow.jpg?s=1024x1024&w=is&k=20&c=cgoEFD_Pt2oRxQr0PDAMguhrCmcK4X3YNZ9AzHygeEQ=",
+    "likes":80,
+    "comments":88
+    }
+    ]
+  },
+  "dogs": {
+    "name": "dogs",
+    "followers": 75000,
+    "following": 150,
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZG9nc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "likes": 3000,
+        "comments": 41
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1552053831-71594a27632d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGRvZ3N8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+        "likes": 2500,
+        "comments": 32
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGRvZ3N8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+        "likes": 500,
+        "comments": 6
+      } ,
+      {
+        "image":"https://media.istockphoto.com/id/1487876504/photo/happy-young-asian-woman-and-her-pet-dog-running-by-the-beach-against-clear-blue-sky-playing.jpg?s=1024x1024&w=is&k=20&c=5jf6cFXI_g7hnxnDsD4BxT4EsXyyXuQK_XoYcFarxm0=",
+        "likes" :450,
+        "comments":77
+      },
+      {
+        "image":"https://plus.unsplash.com/premium_photo-1668606763482-8dd2042c934e?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,",
+        "likes":100,
+        "comments":80
+      }
+      
+    ]
+  },
+    "fruits":{
+"name":"fruits",
+"followers":6000,
+"following":78,
+"posts":[
+  {
+  "image":"https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?auto=format&fit=crop&q=80&w=1780&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "likes":100,
+  "comments":10
+  },
+  {
+    "image":"https://images.unsplash.com/photo-1589217157232-464b505b197f?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YXBwbGV8ZW58MHx8MHx8fDA%3D",
+    "likes":542,
+    "comments":99
+  },
+  {
+    "image":"https://media.istockphoto.com/id/1012753942/photo/orange-garden.jpg?s=2048x2048&w=is&k=20&c=7r3rrC5eQeodLX66fqcqFJZQOqPI9OyA8GyU3MGvpi8=",
+    "likes":133,
+    "comments":59
+  },
+  {
+    "image":"https://images.unsplash.com/photo-1582655299221-2b6bff351df0?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWFuZ298ZW58MHx8MHx8fDA%3D",
+    "likes":244,
+    "comments":39
+  },
+  {
+    "image":"https://media.istockphoto.com/id/172304886/photo/bunch-of-green-grapes-laying.jpg?s=2048x2048&w=is&k=20&c=A96CZaQ4uIBFfNriG-ojhpaCzIjBX376qaKdfpCAkLI=",
+    "likes":542,
+    "comments":99
+  }
+] 
+},
+"vegetables":{
+  "name":"vegetables",
+  "followers":8900,
+  "following":600,
+  "posts":[
+    {
+    "image":"https://images.unsplash.com/photo-1558818498-28c1e002b655?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHZlZ2V0YWJsZXN8ZW58MHx8MHx8fDA%3D",
+    "likes":433,
+    "comments":33
+  },
+
+  {
+    "image":"https://images.unsplash.com/photo-1590868309235-ea34bed7bd7f?auto=format&fit=crop&q=80&w=1854&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "likes":463,
+    "comments":66
+  },
+
+  {
+    "image":"https://media.istockphoto.com/id/935302158/photo/fresh-vegetables-at-a-market-in-india.jpg?s=612x612&w=0&k=20&c=3Pgxxcgv6so68Geax-Txa5Qvb2a5MIKR1ZH_Pq0x3f8=",
+    "likes":222,
+    "comments":44
+  },
+  {
+    "image":"https://media.istockphoto.com/id/507180560/photo/okras-with-raw-okra-in-farm.jpg?s=612x612&w=0&k=20&c=jU1TKJAq3eUtO9bvLzQsNAXNohznfK6TjGc03TODnk8=",
+    "likes":1111,
+    "comments":900
+  },
+
+  {
+    "image":"https://media.istockphoto.com/id/1640347607/photo/cane-basket-full-of-vegetables-red-tomatoes-round-bottle-gourd-brown-cream-taro-purple.jpg?s=612x612&w=0&k=20&c=BkYLGTXabzhwwb_QHCP2gYXtks-7V1W6pnyF20Dgaw0=",
+    "likes":231,
+    "comments":511
+  }
+  ]
+},
+"sports":{
+  "name":"sports",
+  "followers":800,
+  "following":90,
+  "posts":[
+    {
+    "image":"https://images.unsplash.com/photo-1577471488278-16eec37ffcc2?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGJhc2tldGJhbGx8ZW58MHx8MHx8fDA%3D",
+    "likes":67,
+    "comments":10
+    },
+
+    {
+      "image":"https://plus.unsplash.com/premium_photo-1664304792767-f7ebe9bc18da?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJhc2ViYWxsfGVufDB8fDB8fHww",
+      "likes":67,
+      "comments":10
+      },
+
+      {
+        "image":"https://images.unsplash.com/photo-1511886929837-354d827aae26?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGZvb3RiYWxsfGVufDB8fDB8fHww",
+        "likes":67,
+        "comments":10
+        },
+
+        {
+          "image":"https://images.unsplash.com/photo-1595435742656-5272d0b3fa82?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dGVubmlzfGVufDB8fDB8fHww",
+          "likes":67,
+          "comments":10
+          },
+
+
+          {
+            "image":"https://images.unsplash.com/photo-1593111774240-d529f12cf4bb?auto=format&fit=crop&q=80&w=1776&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "likes":67,
+            "comments":10
+            }
+  ]
+},
+
+
+"hyderabad":{
+  "name":"hyderbad",
+  "followers":"1m",
+  "following":90,
+  "posts":[
+    {
+    "image":"https://media.istockphoto.com/id/1324837865/photo/charminar.jpg?s=2048x2048&w=is&k=20&c=1oOHo-SKxZTnTxIl_1ty_J4d_xNUW9YaPAGww_AjYRg=",
+    "likes":7337,
+    "comments":100
+    },
+
+    {
+      "image":"https://media.istockphoto.com/id/504693966/photo/hyderabad_buddha.jpg?s=2048x2048&w=is&k=20&c=JrCGB0lQ-SY9k0A5jjYNxc9JKYMGFlglQAN_Nx267Fo=",
+      "likes":647,
+      "comments":50
+      },
+
+      {
+        "image":"https://media.istockphoto.com/id/534484220/photo/egg-biryani-or-anda-biryani-using-basmati-rice-and-spices.webp?s=2048x2048&w=is&k=20&c=snWAncGgwqlUJA7enxlUqCr9S9zDHBzuVcfH3aLSLSU=",
+        "likes":345,
+        "comments":88
+        },
+
+        {
+          "image":"https://media.istockphoto.com/id/536089437/photo/golkonda-fort-hyderabad-india.jpg?s=2048x2048&w=is&k=20&c=YbyWCTKaRzrOoJXKOpXOUF31ISzDeiVWyml5MmO-8T4=",
+          "likes":321,
+          "comments":77
+          },
+          {
+            "image":"https://media.istockphoto.com/id/471170455/photo/hi-tec-city-building.jpg?s=2048x2048&w=is&k=20&c=WYIR7PJwt4d5B5rnV2HtxHYF-5DJWUeh3dl8-I7ZTm8=",
+            "likes":137,
+            "comments":40
+            }
+          ]
+        }
+
+}

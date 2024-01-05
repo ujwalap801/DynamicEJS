@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram </title>
+ <link rel="stylesheet" href="/style.css" />
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+
+<body>
+    <span class="front">
+    <h2>This page belongs to @ <%=data.name%> &nbsp; <i class="fa-brands fa-square-instagram "></i></h2>
+    <p class="same"> 
+         <button  >&nbsp;Follow</button>
+    <button >Message</button>
+    </p>
+    <p>Followers : <%= data.followers %> &nbsp;&nbsp;&nbsp;
+    Following : <%= data.following %></p>
+    </span>
+
+    <hr>
+
+
+    <% for(let post of data.posts) {
+        %>
+        <img src ="<%= post.image %>" alt = "some image">
+
+        <p><i class="fa-solid fa-heart"></i>&nbsp;Likes : <%= post.likes %> &nbsp;&nbsp;&nbsp;
+            <i class="fa-solid fa-comment"></i>&nbsp;Comments :<%= post.comments %> </p>
+    <%}%>
+
+</body>
+</html>
